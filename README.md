@@ -51,36 +51,36 @@ The customer can search for craftsmen and place job offers.
 ### Technolgies : Android SDK , Kotlin, Xml, Firebase, MVVM 
 
 <p align="center">
-<img src="images/Artisans/1.png" width="700"  title="Screens">
-<img src="images/Artisans/2.png" width="700" title="Screens">
-<img src="images/Artisans/3.png" width="700" title="Screens">
+<img src="images/Artisans/1.png" width="300" height="900"  title="Screens">
+<img src="images/Artisans/2.png" width="300" height="900" title="Screens">
+<img src="images/Artisans/3.png" width="300" height="900" title="Screens">
 
 </p>
 <p align="center">
-<img src="images/Artisans/4.png" width="700"  title="Screens">
-<img src="images/Artisans/5.png" width="700" title="Screens">
-<img src="images/Artisans/6.png" width="700" title="Screens">
+<img src="images/Artisans/4.png" width="300" height="900"  title="Screens">
+<img src="images/Artisans/5.png" width="300" height="900" title="Screens">
+<img src="images/Artisans/6.png" width="300" height="900" title="Screens">
 </p>
 
 <p align="center">
-<img src="images/Artisans/7.png" width="700"  title="Screens">
-<img src="images/Artisans/8.png" width="700" title="Screens">
-<img src="images/Artisans/9.png" width="700" title="Screens">
+<img src="images/Artisans/7.png" width="300" height="900"  title="Screens">
+<img src="images/Artisans/8.png" width="300" height="900" title="Screens">
+<img src="images/Artisans/9.png" width="300" height="900" title="Screens">
 
 </p>
 <p align="center">
-<img src="images/Artisans/10.png" width="700"  title="Screens">
-<img src="images/Artisans/11.png" width="700" title="Screens">
-<img src="images/Artisans/12.png" width="700" title="Screens">
+<img src="images/Artisans/10.png" width="300" height="900"  title="Screens">
+<img src="images/Artisans/11.png" width="300" height="900" title="Screens">
+<img src="images/Artisans/12.png" width="300" height="900" title="Screens">
 </p>
 <p align="center">
-<img src="images/Artisans/13.png" width="700"  title="Screens">
-<img src="images/Artisans/14.png" width="700" title="Screens">
-<img src="images/Artisans/15.png" width="700" title="Screens">
+<img src="images/Artisans/13.png" width="300" height="900"  title="Screens">
+<img src="images/Artisans/14.png" width="300" height="900" title="Screens">
+<img src="images/Artisans/15.png" width="300" height="900" title="Screens">
 </p>
 <p align="center">
-<img src="images/Artisans/16.png" width="700"  title="Screens">
-<img src="images/Artisans/17.png" width="700" title="Screens">
+<img src="images/Artisans/16.png" width="300" height="900"  title="Screens">
+<img src="images/Artisans/17.png" width="300" height="900" title="Screens">
 </p>
 
 # I Wright Go (For English Student)
@@ -107,37 +107,37 @@ Oxford Dictionaries API
 ### Technolgies : Android SDK , Kotlin, Xml, Firebase, MVVM 
 
 <p align="center">
-<img src="images/ENGLISH/1.png" width="700"  title="Screens">
-<img src="images/ENGLISH/2.png" width="700" title="Screens">
-<img src="images/ENGLISH/3.png" width="700" title="Screens">
+<img src="images/ENGLISH/1.png" width="300" height="900"  title="Screens">
+<img src="images/ENGLISH/2.png" width="300" height="900" title="Screens">
+<img src="images/ENGLISH/3.png" width="300" height="900" title="Screens">
 
 </p>
 <p align="center">
-<img src="images/ENGLISH/4.png" width="700"  title="Screens">
-<img src="images/ENGLISH/5.png" width="700" title="Screens">
-<img src="images/ENGLISH/6.png" width="700" title="Screens">
+<img src="images/ENGLISH/4.png" width="300" height="900"  title="Screens">
+<img src="images/ENGLISH/5.png" width="300" height="900" title="Screens">
+<img src="images/ENGLISH/6.png" width="300" height="900" title="Screens">
 </p>
 
 <p align="center">
-<img src="images/ENGLISH/7.png" width="700"  title="Screens">
-<img src="images/ENGLISH/8.png" width="700" title="Screens">
-<img src="images/ENGLISH/9.png" width="700" title="Screens">
+<img src="images/ENGLISH/7.png" width="300" height="900"  title="Screens">
+<img src="images/ENGLISH/8.png" width="300" height="900" title="Screens">
+<img src="images/ENGLISH/9.png" width="300" height="900" title="Screens">
 
 </p>
 <p align="center">
-<img src="images/ENGLISH/10.png" width="700"  title="Screens">
-<img src="images/ENGLISH/11.png" width="700" title="Screens">
-<img src="images/ENGLISH/12.png" width="700" title="Screens">
+<img src="images/ENGLISH/10.png" width="300" height="900"  title="Screens">
+<img src="images/ENGLISH/11.png" width="300" height="900" title="Screens">
+<img src="images/ENGLISH/12.png" width="300" height="900" title="Screens">
 </p>
 <p align="center">
-<img src="images/ENGLISH/13.png" width="700"  title="Screens">
-<img src="images/ENGLISH/14.png" width="700" title="Screens">
-<img src="images/ENGLISH/15.png" width="700" title="Screens">
+<img src="images/ENGLISH/13.png" width="300" height="900"  title="Screens">
+<img src="images/ENGLISH/14.png" width="300" height="900" title="Screens">
+<img src="images/ENGLISH/15.png" width="300" height="900" title="Screens">
 </p>
 <p align="center">
-<img src="images/ENGLISH/16.png" width="700"  title="Screens">
-<img src="images/ENGLISH/17.png" width="700" title="Screens">
-<img src="images/ENGLISH/18.png" width="700" title="Screens">
+<img src="images/ENGLISH/16.png" width="300" height="900"  title="Screens">
+<img src="images/ENGLISH/17.png" width="300" height="900" title="Screens">
+<img src="images/ENGLISH/18.png" width="300" height="900" title="Screens">
 </p>
   
 
