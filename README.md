@@ -107,37 +107,37 @@ Oxford Dictionaries API
 ### Technolgies : Android SDK , Kotlin, Xml, Firebase, MVVM 
 
 <p align="center">
-<img src="images/ENGLISH/1.png" width="300" height="900"  title="Screens">
-<img src="images/ENGLISH/2.png" width="300" height="900" title="Screens">
-<img src="images/ENGLISH/3.png" width="300" height="900" title="Screens">
+<img src="images/ENGLISH/1.jpg" width="300" height="900"  title="Screens">
+<img src="images/ENGLISH/2.jpg" width="300" height="900" title="Screens">
+<img src="images/ENGLISH/3.jpg" width="300" height="900" title="Screens">
 
 </p>
 <p align="center">
-<img src="images/ENGLISH/4.png" width="300" height="900"  title="Screens">
-<img src="images/ENGLISH/5.png" width="300" height="900" title="Screens">
-<img src="images/ENGLISH/6.png" width="300" height="900" title="Screens">
+<img src="images/ENGLISH/4.jpg" width="300" height="900"  title="Screens">
+<img src="images/ENGLISH/5.jpg" width="300" height="900" title="Screens">
+<img src="images/ENGLISH/6.jpg" width="300" height="900" title="Screens">
 </p>
 
 <p align="center">
-<img src="images/ENGLISH/7.png" width="300" height="900"  title="Screens">
-<img src="images/ENGLISH/8.png" width="300" height="900" title="Screens">
-<img src="images/ENGLISH/9.png" width="300" height="900" title="Screens">
+<img src="images/ENGLISH/7.jpg" width="300" height="900"  title="Screens">
+<img src="images/ENGLISH/8.jpg" width="300" height="900" title="Screens">
+<img src="images/ENGLISH/9.jpg" width="300" height="900" title="Screens">
 
 </p>
 <p align="center">
-<img src="images/ENGLISH/10.png" width="300" height="900"  title="Screens">
-<img src="images/ENGLISH/11.png" width="300" height="900" title="Screens">
-<img src="images/ENGLISH/12.png" width="300" height="900" title="Screens">
+<img src="images/ENGLISH/10.jpg" width="300" height="900"  title="Screens">
+<img src="images/ENGLISH/11.jpg" width="300" height="900" title="Screens">
+<img src="images/ENGLISH/12.jpg" width="300" height="900" title="Screens">
 </p>
 <p align="center">
-<img src="images/ENGLISH/13.png" width="300" height="900"  title="Screens">
-<img src="images/ENGLISH/14.png" width="300" height="900" title="Screens">
-<img src="images/ENGLISH/15.png" width="300" height="900" title="Screens">
+<img src="images/ENGLISH/13.jpg" width="300" height="900"  title="Screens">
+<img src="images/ENGLISH/14.jpg" width="300" height="900" title="Screens">
+<img src="images/ENGLISH/15.jpg" width="300" height="900" title="Screens">
 </p>
 <p align="center">
-<img src="images/ENGLISH/16.png" width="300" height="900"  title="Screens">
-<img src="images/ENGLISH/17.png" width="300" height="900" title="Screens">
-<img src="images/ENGLISH/18.png" width="300" height="900" title="Screens">
+<img src="images/ENGLISH/16.jpg" width="300" height="900"  title="Screens">
+<img src="images/ENGLISH/17.jpg" width="300" height="900" title="Screens">
+<img src="images/ENGLISH/18.jpg" width="300" height="900" title="Screens">
 </p>
   
 
