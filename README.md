@@ -35,10 +35,10 @@ Features of the application :
 </p>
 
 <p align="center">
-<img src="images/MBTI/1.png" width="700" title="Screens">
-<img src="images/MBTI/2.png" width="700" title="Screens">
-<img src="images/MBTI/3.png" width="700" title="Screens">
-<img src="images/MBTI/4.png" width="700" title="Screens">
+<img src="images/MBTI/1.png" width="300" height="900" title="Screens">
+<img src="images/MBTI/2.png" width="300" height="900" title="Screens">
+<img src="images/MBTI/3.png" width="300" height="900" title="Screens">
+<img src="images/MBTI/4.png" width="300" height="900" title="Screens">
 </p>
 
 
@@ -107,37 +107,37 @@ Oxford Dictionaries API
 ### Technolgies : Android SDK , Kotlin, Xml, Firebase, MVVM 
 
 <p align="center">
-<img src="images/ENGLISH APP/1.png" width="700"  title="Screens">
-<img src="images/ENGLISH APP/2.png" width="700" title="Screens">
-<img src="images/ENGLISH APP/3.png" width="700" title="Screens">
+<img src="images/ENGLISH/1.png" width="700"  title="Screens">
+<img src="images/ENGLISH/2.png" width="700" title="Screens">
+<img src="images/ENGLISH/3.png" width="700" title="Screens">
 
 </p>
 <p align="center">
-<img src="images/ENGLISH APP/4.png" width="700"  title="Screens">
-<img src="images/ENGLISH APP/5.png" width="700" title="Screens">
-<img src="images/ENGLISH APP/6.png" width="700" title="Screens">
+<img src="images/ENGLISH/4.png" width="700"  title="Screens">
+<img src="images/ENGLISH/5.png" width="700" title="Screens">
+<img src="images/ENGLISH/6.png" width="700" title="Screens">
 </p>
 
 <p align="center">
-<img src="images/ENGLISH APP/7.png" width="700"  title="Screens">
-<img src="images/ENGLISH APP/8.png" width="700" title="Screens">
-<img src="images/ENGLISH APP/9.png" width="700" title="Screens">
+<img src="images/ENGLISH/7.png" width="700"  title="Screens">
+<img src="images/ENGLISH/8.png" width="700" title="Screens">
+<img src="images/ENGLISH/9.png" width="700" title="Screens">
 
 </p>
 <p align="center">
-<img src="images/ENGLISH APP/10.png" width="700"  title="Screens">
-<img src="images/ENGLISH APP/11.png" width="700" title="Screens">
-<img src="images/ENGLISH APP/12.png" width="700" title="Screens">
+<img src="images/ENGLISH/10.png" width="700"  title="Screens">
+<img src="images/ENGLISH/11.png" width="700" title="Screens">
+<img src="images/ENGLISH/12.png" width="700" title="Screens">
 </p>
 <p align="center">
-<img src="images/ENGLISH APP/13.png" width="700"  title="Screens">
-<img src="images/ENGLISH APP/14.png" width="700" title="Screens">
-<img src="images/ENGLISH APP/15.png" width="700" title="Screens">
+<img src="images/ENGLISH/13.png" width="700"  title="Screens">
+<img src="images/ENGLISH/14.png" width="700" title="Screens">
+<img src="images/ENGLISH/15.png" width="700" title="Screens">
 </p>
 <p align="center">
-<img src="images/ENGLISH APP/16.png" width="700"  title="Screens">
-<img src="images/ENGLISH APP/17.png" width="700" title="Screens">
-<img src="images/ENGLISH APP/18.png" width="700" title="Screens">
+<img src="images/ENGLISH/16.png" width="700"  title="Screens">
+<img src="images/ENGLISH/17.png" width="700" title="Screens">
+<img src="images/ENGLISH/18.png" width="700" title="Screens">
 </p>
   
 
